@@ -1,5 +1,7 @@
 # Roman Numerals Converter
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=digitaltechnologyagency&show_icons=true)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.24.
 
 ## Development server
